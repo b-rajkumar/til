@@ -1,6 +1,6 @@
 # Index
 
-| S.NO |      TOPIC      |
-| :--: | :-------------: |
-|  1   | Today I learned |
-|  2   | Book Summaries  |
+| S.NO |                 TOPIC                  |
+| :--: | :------------------------------------: |
+|  1   | [Today I learned](/today-i-learned.md) |
+|  2   |  [Book Summaries](/book-summaries.md)  |

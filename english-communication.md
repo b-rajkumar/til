@@ -206,3 +206,140 @@
 #### [top](#index)
 
 ---
+
+## CHAPTER - 4:
+
+### Summary:
+
+- Along with grammar and vocabulary, correct pronunciation is a sine qua
+  non for mastering the art of speaking. Pronunciation relates to how the words are spoken or uttered.
+  Like bad grammar, incorrect pronunciation too undermines the speaker.
+
+- Along with grammar and vocabulary, correct pronunciation is a sine qua
+  non for mastering the art of speaking. Pronunciation relates to how the
+  words are spoken or uttered. Like bad grammar, incorrect pronunciation
+  too undermines the speaker.
+
+- English pronunciation is known to be more difficult when compared to many
+  other languages.
+
+- Oral fluency is a must for making good speeches and presentations. Mastery
+  over the language and command over words distinguish an accomplished
+  speaker from a mediocre one. A good speaker cannot stand before an
+  audience and start groping for the right word.
+
+- Building up superior word power is a lifelong endeavour. English language
+  constantly adopts new words. Very recently the millionth word entered the
+  English lexicon. New words come into being and gain currency. Old words
+  fall into disuse and yield place to more contemporary words.
+
+- There have been a variety of techniques suggested to help the students
+  master the correct pronunciation of the target language.
+
+- There are two approaches to teaching of Pronunciation: Context free
+  situation and Context embedded situation.
+
+- There are research findings indicating that the distinctive features of the
+  sound system of the mother tongue has considerable impact on the
+  acquisition of English pronunciation.
+
+- There are studies on ‘sensitive window’ hypothesis highlighting the initial
+  years of child development as being the most productive and fertile phase
+  for language acquisition.
+
+- If the individual lives in a country with native speakers of the language, but
+  the family environment uses the mother tongue of the individual, it results in
+  an acquisition poor environment.
+
+### Keywords:
+
+- **Pronunciation:** It relates to how the words are spoken or uttered.
+
+- **Oral fluency development:** It means having an abundant supply of words
+  and being in a position to choose the most appropriate word in every given
+  context.
+
+- **Fluency:** It refers to the ability to speak effortlessly and with ease.
+
+#### [top](#index)
+
+---
+
+## CHAPTER - 5: Phonetics in Communication Skills
+
+### Summary:
+
+- Speech sounds are classified as vowels and consonants. Bloomfield defines
+  a vowel as ‘modifications of the voice-sound that involve no closure, friction
+  or contact of the tongue or lips’.
+
+- The chief organs concerned in modifying the shape of the passage are the
+  tongue and the lips. Vowels are classified for linguistic purposes according
+  to the position of the tongue.
+
+- In phonetics, a vowel is a sound in spoken language, like English ah! or oh!,
+  which is pronounced with an open vocal tract so that there is no build-up of
+  air pressure at any point above the glottis. This contrasts with consonants,
+  like English sh! where there is a constriction or closure at some point along
+  with the vocal tract.
+
+- The word vowel comes from the Latin word vocalis, which means
+  ‘speaking’, as in most languages words and so speech is not possible without
+  vowels. In English, the word vowel is basically used to describe both vowel
+  sounds and the written symbols that describe them.
+
+- When a vowel comes finally in a word, it is much longer than when it occurs
+  initially. Similarly, if it occurs after a voiced sound, it will be longer.
+
+- A diphthong or vowel glide is a combination of two short vowels. Generally,
+  English vowels are characterized by lip-spreading in case of front vowels
+  and lip-rounding in back vowels.
+
+- A consonant is defined as a speech sound that is produced when the air
+  passage is obstructed, or the flow of air is stopped as a result of narrowing
+  or a complete closure of the air passage. For example, while pronouncing
+  the word ‘pool’ our lips try to stop air from passing through when the sound
+  /p/ is produced.
+
+- The obstruction made by the organs may be total, intermittent or partial, or
+  may merely constitute a narrowing sufficient to cause friction. Sibilants can
+  be differentiated from each other fricatives by the tongue’s shape and by
+  the airflow that is directed over the teeth. Fricatives at coronal places of
+  articulation can be sibilant or non-sibilant; although sibilants are more
+  common.
+
+- The state of the vocal chords also determines the type of consonant. When
+  the vocal chords are held loosely together, the pressure of the air coming
+  from the lungs makes them vibrate, that is, they open and close regularly
+  many times a second. Sounds produced in this manner are called voiced
+  sounds.
+
+- When a group of two or three consonants occur together in a word without
+  any vowel between them, it is called a consonant cluster. Sometimes it is
+  also called a consonant blend. Each letter in the group is pronounced
+  individually. For example, words like school and strange.
+
+### Keywords:
+
+- **Vowel** It refers to modifications of the voice-sound that involve no closure,
+  friction or contact of the tongue or lips.
+
+- **Retroflexion** It is the slight upward turning of the tip of the tongue towards
+  the centre of the hard palate.
+
+- **Diphthong** A diphthong or vowel glide is a combination of two short vowels.
+
+- **Consonant** A consonant is defined as a speech sound that is produced
+  when the air passage is obstructed, or the flow of air is stopped as a result
+  of narrowing or a complete closure of the air passage.
+
+- **Fricative** A fricative is formed by narrowing the air passage to such an
+  extent that the air on escaping produces an audible friction.
+
+- **Consonant cluster** When a group of two or three consonants occur
+  together in a word without any vowel between them, it is called a consonant
+  cluster.
+
+#### [top](#index)
+
+---

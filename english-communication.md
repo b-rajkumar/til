@@ -8,11 +8,13 @@
 | 2    | [Stimulus and Response of Communication Skills](#chapter---2-stimulus-and-response-of-communication-skills) |
 | 3    | [Effective Speaking Guidelines](#chapter---3-effective-speaking-guidelines)                                 |
 
+---
+
 ## CHAPTER - 1: Code and Content of Communication Skills
 
 ### Summary:
 
-- Communication content: Communication skills start with a clear understanding of what to communicate. What do we really want to get across and in how detailed a manner? Are they stray thoughts and ideas or well-organized and sequenced concepts, events, achievements, developments and ideas? Are we communicating our own thoughts and feelings or are we encoding and transmitting the message, thoughts, ideas of another party, say that of a chief executive officer (CEO), planning chief, team leader or an employer?
+- **Communication content:** Communication skills start with a clear understanding of what to communicate. What do we really want to get across and in how detailed a manner? Are they stray thoughts and ideas or well-organized and sequenced concepts, events, achievements, developments and ideas? Are we communicating our own thoughts and feelings or are we encoding and transmitting the message, thoughts, ideas of another party, say that of a chief executive officer (CEO), planning chief, team leader or an employer?
 
 - As a present-day business communicator,one can choose how to deliver his or her message. Choosing the right delivery channel should be a well- considered decision. Sometimes a written message succeeds whereas an oral message may fail to have the desired effect. On another occasion, it may be more appropriate to talk to the person rather than put the message in writing.
 
@@ -28,16 +30,20 @@
 
 ### Keywords:
 
-- Technical skills: These relate to knowledge, proficiency, expertise, speed,
+- **Technical skills:** These relate to knowledge, proficiency, expertise, speed,
   accuracy, and the like. These are often specific to the area of operation.
 
-- Conceptual skills: These are relatively higher order skills. They include
+- **Conceptual skills:** These are relatively higher order skills. They include
   vision building and strategy formulation skills, conflict management skills,
   problem solving skills and decision-making skills.
 
-- Human skills: These are associated with networking and managing
+- **Human skills:** These are associated with networking and managing
   relationships. These would include writing, speaking and presentation skills,
   motivational skills and team building skills.
+
+#### [top](#index)
+
+---
 
 ## CHAPTER - 2: Stimulus and Response of Communication Skills
 
@@ -90,26 +96,30 @@
 
 ### Keywords:
 
-- Encoding: Encoding would involve choosing the right words, expressions,
+- **Encoding:** Encoding would involve choosing the right words, expressions,
   phrases, charts and pictures in order to facilitate complete and clear
   expression of the idea.
 
-- Decoding: Decoding relates to reading, listening, viewing, understanding
+- **Decoding:** Decoding relates to reading, listening, viewing, understanding
   and interpretation of the message.
 
-- Oral communication: Oral communication refers to the spoken word. It
+- **Oral communication:** Oral communication refers to the spoken word. It
   takes the form of sounds and words.
 
-- Non-verbal communication: Non-verbal communication may take any
+- **Non-verbal communication:** Non-verbal communication may take any
   of the following forms—body language, gestures, postures, appearance,
   personal space, codes, signs and signals, facial expressions, timings, examples
   and personal behaviour.
 
-- Sign: A sign is a mark traced on a surface or an object with a view to
+- **Sign:** A sign is a mark traced on a surface or an object with a view to
   indicate a particular meaning.
 
-- Signal: A signal is a sound or a movement that people make to give others
+- **Signal:** A signal is a sound or a movement that people make to give others
   information, instruction or warning.
+
+#### [top](#index)
+
+---
 
 ## CHAPTER - 3: Effective Speaking Guidelines
 
@@ -184,11 +194,15 @@
 
 ### Keywords:
 
-- Arrangement: Arrangement refers to sequencing and order of presentation.
+- **Arrangement:** Arrangement refers to sequencing and order of presentation.
   It means avoiding going back and forth and speaking in a rambling manner.
 
-- Style: Style refers to the stamp of individuality. It refers to a copious supply
+- **Style:** Style refers to the stamp of individuality. It refers to a copious supply
   of words and using them with judgement.
 
-- Voice modulation: It is an inflection of the tone or pitch of the voice,
+- **Voice modulation:** It is an inflection of the tone or pitch of the voice,
   specifically the use of stress or pitch to convey meaning
+
+#### [top](#index)
+
+---

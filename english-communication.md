@@ -1,14 +1,17 @@
 # ENGLISH COMMUNICATION SKILLS
 
+---
+
 ## INDEX:
 
-| S.No | Chapter                                                                                                     |
-| ---- | ----------------------------------------------------------------------------------------------------------- |
-| 1    | [Code and Content of Communication Skills](#chapter---1-code-and-content-of-communication-skills")          |
-| 2    | [Stimulus and Response of Communication Skills](#chapter---2-stimulus-and-response-of-communication-skills) |
-| 3    | [Effective Speaking Guidelines](#chapter---3-effective-speaking-guidelines)                                 |
-| 4    | [Pronounciation in Communication Skills](#chapter---4-pronounciation-in-communication-skills)               |
-| 5    | [Phonetics in Communication Skills](#chapter---5-phonetics-in-communication-skills)                         |
+| S.No | Chapter                                                                                                       |
+| ---- | ------------------------------------------------------------------------------------------------------------- |
+| 1    | [Code and Content of Communication Skills](#chapter---1-code-and-content-of-communication-skills")            |
+| 2    | [Stimulus and Response of Communication Skills](#chapter---2-stimulus-and-response-of-communication-skills)   |
+| 3    | [Effective Speaking Guidelines](#chapter---3-effective-speaking-guidelines)                                   |
+| 4    | [Pronounciation in Communication Skills](#chapter---4-pronounciation-in-communication-skills)                 |
+| 5    | [Phonetics in Communication Skills](#chapter---5-phonetics-in-communication-skills)                           |
+| 6    | [A Self Assessment of Communicating Soft Skills](#chapter---6-a-self-assessment-of-communicating-soft-skills) |
 
 ---
 
@@ -214,10 +217,6 @@
 ### Summary:
 
 - Along with grammar and vocabulary, correct pronunciation is a sine qua
-  non for mastering the art of speaking. Pronunciation relates to how the words are spoken or uttered.
-  Like bad grammar, incorrect pronunciation too undermines the speaker.
-
-- Along with grammar and vocabulary, correct pronunciation is a sine qua
   non for mastering the art of speaking. Pronunciation relates to how the
   words are spoken or uttered. Like bad grammar, incorrect pronunciation
   too undermines the speaker.
@@ -341,6 +340,58 @@
 - **Consonant cluster** When a group of two or three consonants occur
   together in a word without any vowel between them, it is called a consonant
   cluster.
+
+#### [top](#index)
+
+---
+
+## CHAPTER - 6: A Self Assessment of Communicating Soft Skills
+
+### Summary:
+
+- The importance of soft skills in the world of business today can hardly be
+  over-emphasised.
+
+- Since businesses exist for the benefit of people and people constitute the
+  core asset of most business organisations, soft skills assume great
+  significance.
+
+- Soft skills are considered to be extremely valuable across corporates and
+  businesses. Unlike the knowledge of specific subjects and expertise in
+  functional domains, soft skills are of value irrespective of the functional area
+  and nature of business.
+
+- Soft skills are of large variety and are inclusive in nature. In a sense, all
+  those skills which fall outside the hard skills category could be listed under
+  soft skills.
+
+- Soft skills and management skills have a lot in common. Obviously, managers
+  in business organisations need necessarily develop a variety of soft skills to
+  become effective.
+
+- Personal skills can be of wide variety. Cultivating them in a conscious manner
+  enables the individual to function effectively as an employee, a manager or
+  a useful member of the business organisation.
+
+- Inter-personal skills are distinct from personal skills. Personal skills relate
+  to matters of the self. Inter-personal skills relate to dealing with others.
+  Inter-personal skills are connected with relationships between people.
+
+- A skill refers to a specific or particular ability. A skill also refers to the ability
+  to do something well. When we say technical skill, we refer to the ability to
+  apply the relevant technical knowledge in a given situation.
+
+- Skill development does not happen overnight. It is a long-drawn process.
+  There are no short cuts to acquire managerial soft skills.
+
+### Keywords:
+
+- **Professionalism** It means the combination of all the qualities that are
+  connected with trained and skilled people.
+
+- **Adaptability** It means the quality of being able to adjust to new conditions.
+
+- **Inter-personalconflict**Thetypeofconflictthatoccurswhenapersonor group of people frustrates or interferes with another person’s efforts at achieving a goal.
 
 #### [top](#index)
 

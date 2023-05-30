@@ -1,5 +1,13 @@
 # ENGLISH COMMUNICATION SKILLS
 
+## INDEX:
+
+| S.No | Chapter                                                                                                     |
+| ---- | ----------------------------------------------------------------------------------------------------------- |
+| 1    | [Code and Content of Communication Skills](#chapter---1-code-and-content-of-communication-skills")          |
+| 2    | [Stimulus and Response of Communication Skills](#chapter---2-stimulus-and-response-of-communication-skills) |
+| 3    | [Effective Speaking Guidelines](#chapter---3-effective-speaking-guidelines)                                 |
+
 ## CHAPTER - 1: Code and Content of Communication Skills
 
 ### Summary:
@@ -80,7 +88,7 @@
   or warning. A signal is also understood as an indication that something exists
   or something is about to happen.
 
-  ### Keywords:
+### Keywords:
 
 - Encoding: Encoding would involve choosing the right words, expressions,
   phrases, charts and pictures in order to facilitate complete and clear
@@ -102,3 +110,85 @@
 
 - Signal: A signal is a sound or a movement that people make to give others
   information, instruction or warning.
+
+## CHAPTER - 3: Effective Speaking Guidelines
+
+### Summary:
+
+- Effective communication calls for coordinated effort. Good communication
+  like any other high-quality output is very much the result of hard work.
+  Good communication does not occur accidentally. It calls for proper
+  planning, understanding of human behavior, choice of physical facilities and
+  mechanical or electronic devices and the organizational context.
+
+- An essential for effective communication is the need to understand how the
+  process of communication works, i.e., the principles and tools of
+  communication. To appreciate the various steps involved in communication
+  in terms of encoding, decoding, transmission, comprehension and feedback,
+  it is necessary to have a good understanding of the mode, channels, types,instruments,
+  methods and barriers relating to communication and the factors affecting it.
+
+- The process of communication should take just the right time. Long speeches
+  that stretch well beyond the allotted time, lengthy written communication
+  and unusually long films and documents not only test the patience of the
+  listener/reader/viewer, but also tend to lose their force and get diluted in the
+  process.
+
+- Effectiveness of the communication will depend on the choice of methods
+  and instruments. There are times when written communication cannot convey
+  as forcefully as oral communication. There are occasions when a telephone
+  call would be more appropriate than a letter.
+
+- Even before the speaker opens her mouth to speak, the listeners start their
+  appraisal. Audiences tend to size up the speaker from the speaker’s
+  appearance, attire and posture. The attire should convey the right message.
+  Casual appearance in an otherwise formal occasion should be avoided.
+
+- Contents of the speech should of course be audience relevant. Apart from
+  that, the delivery of the speech should also be audience friendly. The choice
+  of words, the transmission rate, illustrations and stories, amplification of
+  points, use of jargon and the level of interaction would be such as to ensure
+  a proper connect with the audience.
+
+- No two groups of audience are identical. Again, the expectations of the
+  same group may vary from time to time. That is why it is essential that
+  speaker pitches his or her speech to the specific audience. Are they young
+  or old, male or female, generalists or specialists, homogeneous or
+  heterogeneous, small or big, well informed or otherwise, friendly or hostile?
+
+- Accomplished speakers know how to make even uninteresting subjects
+  interesting and worthy of attention. Arrangement refers to sequencing and
+  order of presentation. It means avoiding going back and forth and speaking
+  in a rambling manner. Style refers to the stamp of individuality.
+
+- Voice modulation makes a big difference to the impact a speaker makes on
+  the listeners. Experts on communication note that even if you have something
+  worth saying, if you express it in a tone or manner that is a turn-off, it
+  guarantees that no one will listen.
+
+- The speakers should use every opportunity to elicit responses from the
+  listeners. Questions such as, ‘Are you with me so far?’ or ‘Shall we proceed
+  further?’ or ‘Do you have any questions?’ provide opportunities to the
+  listeners to respond.
+
+- Good speakers learn to make their speeches animated and exciting. Listeners
+  enjoy every minute of the speech when there is great delivery. Just as routine
+  or ordinary topics are made interesting by great delivery, very interesting
+  topics are made dull and monotonous by bad delivery.
+
+- Any derogatory references to caste, creed, community, religion or colour
+  and sexist remarks should be scrupulously avoided. Wise cracks or remarks
+  at the expense of somebody else do not always go well with the audience.
+  Good speakers show humility and admit their mistakes and shortcomings,
+  if any.
+
+### Keywords:
+
+- Arrangement: Arrangement refers to sequencing and order of presentation.
+  It means avoiding going back and forth and speaking in a rambling manner.
+
+- Style: Style refers to the stamp of individuality. It refers to a copious supply
+  of words and using them with judgement.
+
+- Voice modulation: It is an inflection of the tone or pitch of the voice,
+  specifically the use of stress or pitch to convey meaning

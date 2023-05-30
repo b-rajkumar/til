@@ -7,6 +7,8 @@
 | 1    | [Code and Content of Communication Skills](#chapter---1-code-and-content-of-communication-skills")          |
 | 2    | [Stimulus and Response of Communication Skills](#chapter---2-stimulus-and-response-of-communication-skills) |
 | 3    | [Effective Speaking Guidelines](#chapter---3-effective-speaking-guidelines)                                 |
+| 4    | [Pronounciation in Communication Skills](#chapter---4-pronounciation-in-communication-skills)               |
+| 5    | [Phonetics in Communication Skills](#chapter---5-phonetics-in-communication-skills)                         |
 
 ---
 
@@ -207,7 +209,7 @@
 
 ---
 
-## CHAPTER - 4:
+## CHAPTER - 4: Pronounciation in Communication Skills
 
 ### Summary:
 
